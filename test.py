@@ -3,3 +3,5 @@ def my_function(my_var):
     b = y + 1
 
 output = my_function(my_var)
+
+print('hello')
