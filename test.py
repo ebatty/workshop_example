@@ -1,7 +1,8 @@
-def my_function(my_var):
-    a = 5
-    b = y + 1
+import numpy as np
 
-output = my_function(my_var)
-
-print('hello')
+def MyFunction(a):
+ 
+  qq=[1,2,3,4]
+  for ii in qq:
+    qq[ii] += 1
+  return qq
