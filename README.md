@@ -1,1 +1,1 @@
-Example for Structuring Code & Data workshop
+Example for Python bootcamp
